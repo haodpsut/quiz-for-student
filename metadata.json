@@ -1,0 +1,5 @@
+{
+  "name": "IT Student Quiz Hub",
+  "description": "An interactive web application for IT students to review course materials through quizzes, get instant feedback, and ask questions to an AI tutor. Features subject-specific quizzes, scoring, and detailed explanations.",
+  "requestFramePermissions": []
+}
